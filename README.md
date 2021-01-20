@@ -2,7 +2,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Aashrut&hide=stars&show_icons=true&theme=radical)
 
+<!--
 ![LinkedIn](https://www.linkedin.com/in/aashrut-vaghani-06bab0184/)
+-->
 <!--
 **Aashrut/Aashrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
