@@ -1,4 +1,4 @@
-### Hi there 👋. This is Aashrut R. Vaghani. Here you can learn more about me.
+### Hi there 👋.<br>This is Aashrut R. Vaghani. Here you can learn more about me.
 
 ## My Profiles
 <p align="center">
