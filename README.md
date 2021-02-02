@@ -2,31 +2,31 @@
 
 ## My Profiles
 <p align="center">
-  <a href="https://www.linkedin.com/in/aashrut-vaghani-06bab0184/">
+  <a href="https://www.linkedin.com/in/aashrut-vaghani-06bab0184/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://twitter.com/AashrutV">
+  <a href="https://twitter.com/AashrutV" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://stackoverflow.com/users/12365083/aashrut-vaghani">
+  <a href="https://stackoverflow.com/users/12365083/aashrut-vaghani" target="_blank">
     <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="Stackoverflow">
   </a>
-  <a href="https://auth.geeksforgeeks.org/user/aashrut123">
+  <a href="https://auth.geeksforgeeks.org/user/aashrut123" target="_blank">
     <img src="https://img.shields.io/badge/geeksforgeeks-0F9D5F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-  <a href="https://hackerone.com/aashrut99">
+  <a href="https://hackerone.com/aashrut99" target="_blank">
     <img src="https://img.shields.io/badge/hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne">
   </a>
-  <a href="https://www.hackerrank.com/aashrut99">
+  <a href="https://www.hackerrank.com/aashrut99" target="_blank">
     <img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
-  <a href="https://dev.to/aashrut">
+  <a href="https://dev.to/aashrut" target="_blank">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
-  <a href="https://www.codecademy.com/profiles/aashrut99">
+  <a href="https://www.codecademy.com/profiles/aashrut99" target="_blank">
     <img src="https://img.shields.io/badge/codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
   </a>
-  <a href="https://www.youracclaim.com/users/aashrut-vaghani">
+  <a href="https://www.youracclaim.com/users/aashrut-vaghani" target="_blank">
     <img src="https://img.shields.io/badge/acclaim-26689A?style=for-the-badge&logo=acclaim&logoColor=white" alt="Acclaim By Credly">
   </a>
 </p>
