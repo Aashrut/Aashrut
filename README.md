@@ -56,6 +56,11 @@
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="GNU Bash">
 </p>
 
+## My Projects
+<a href="https://agentcrop.azurewebsites.net">Agent Crop</a>
+
+<a href="https://aashrut.github.io">My Portfolio</a>
+
 ## My Github Stats
 
 <p align="center">
