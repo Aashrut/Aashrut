@@ -1,7 +1,7 @@
 ### Hi there 👋. This is Aashrut R. Vaghani.
 
 ## My Profiles
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/aashrut-vaghani-06bab0184/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
@@ -35,10 +35,10 @@
   <a href="https://www.qwiklabs.com/public_profiles/4b335d6e-c325-43a2-9bb0-9e4cb092b94e">
     <img src="https://img.shields.io/badge/qwiklabs-F5CD0E?style=for-the-badge&logo=qwiklabs&logoColor=black" alt="Qwiklabs">
   </a>
-</p>
+</div>
 
 ## My Skills
-<p align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
@@ -54,7 +54,7 @@
   <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="GNU Bash">
-</p>
+</div>
 
 ## My Projects
 <a href="https://agentcrop.azurewebsites.net">Agent Crop</a>
@@ -67,9 +67,9 @@
 
 <div align="center">
 
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Aashrut&hide=stars&show_icons=true&theme=tokyonight#gh-dark-mode-only)  
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=Aashrut&hide=stars&show_icons=true&theme=tokyonight)  
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrut&layout=compact&langs_count=10&theme=tokyonight#gh-dark-mode-only)
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrut&layout=compact&langs_count=10&theme=tokyonight)
   
 </div>
 
