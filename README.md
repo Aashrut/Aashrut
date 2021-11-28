@@ -59,16 +59,18 @@
 ## My Projects
 <a href="https://agentcrop.azurewebsites.net">Agent Crop</a>
 
+<!--
 <a href="https://aashrut.github.io">My Portfolio</a>
+-->
 
 ## My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aashrut&hide=stars&show_icons=true&theme=tokyonight" alt="Github stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Aashrut&hide=stars&show_icons=true&theme=tokyonight#gh-dark-mode-only" alt="Github stats">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrut&layout=compact&langs_count=10&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrut&layout=compact&langs_count=10&theme=tokyonight#gh-dark-mode-only" alt="Top Languages">
 </p>
 
 <!--
