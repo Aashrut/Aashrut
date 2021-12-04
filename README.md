@@ -59,9 +59,7 @@
 ## My Projects
 <a href="https://agentcrop.azurewebsites.net">Agent Crop</a>
 
-<!--
 <a href="https://aashrut.github.io">My Portfolio</a>
--->
 
 ## My Github Stats
 
