@@ -63,6 +63,8 @@
 
 <a href="https://aashrut.github.io">My Portfolio</a>
 
+<a href="https://aashrut.github.io/Certificate-Generator/">Certificate Generator</a>
+
 ## My Github Stats
 
 <div align="center">
