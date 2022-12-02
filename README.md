@@ -1,4 +1,5 @@
 ### Hi there 👋. This is Aashrut R. Vaghani.
+![My GitHub Profile Views](https://komarev.com/ghpvc/?username=Aashrut&style=for-the-badge)
 
 ## My Profiles
 <div align="center">
