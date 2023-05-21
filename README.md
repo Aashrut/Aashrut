@@ -24,14 +24,17 @@
   <a href="https://www.hackerrank.com/aashrut99">
     <img src="https://img.shields.io/badge/hackerrank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
   </a>
+  <a href="https://www.coursera.org/user/6e699f5eb0060f4d0072b981737e70e7">
+    <img src="https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white" alt="Coursera">
+  </a>
   <a href="https://dev.to/aashrut">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to">
   </a>
   <a href="https://www.codecademy.com/profiles/aashrut99">
     <img src="https://img.shields.io/badge/codecademy-1F4056?style=for-the-badge&logo=codecademy&logoColor=white" alt="Codecademy">
   </a>
-  <a href="https://www.youracclaim.com/users/aashrut-vaghani">
-    <img src="https://img.shields.io/badge/acclaim-26689A?style=for-the-badge&logo=acclaim&logoColor=white" alt="Acclaim By Credly">
+  <a href="https://www.credly.com/users/aashrut-vaghani">
+    <img src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white" alt="Credly">
   </a>
   <a href="https://www.qwiklabs.com/public_profiles/4b335d6e-c325-43a2-9bb0-9e4cb092b94e">
     <img src="https://img.shields.io/badge/qwiklabs-F5CD0E?style=for-the-badge&logo=qwiklabs&logoColor=black" alt="Qwiklabs">
