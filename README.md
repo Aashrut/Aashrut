@@ -18,7 +18,7 @@
   <a href="https://auth.geeksforgeeks.org/user/aashrut123">
     <img src="https://img.shields.io/badge/geeksforgeeks-0F9D5F?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
-  <a href="https://hackerone.com/aashrut99">
+  <a href="https://hackerone.com/aashrut">
     <img src="https://img.shields.io/badge/hackerone-494649?style=for-the-badge&logo=hackerone&logoColor=white" alt="HackerOne">
   </a>
   <a href="https://www.hackerrank.com/aashrut99">
