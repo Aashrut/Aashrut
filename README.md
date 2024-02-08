@@ -64,23 +64,16 @@
 ## My Projects
 <a href="https://agentcrop.azurewebsites.net">Agent Crop</a>
 
-<a href="http://hacker-gallery.azurewebsites.net">Hacker Gallery</a>
+<a href="https://play.google.com/store/apps/dev?id=7297231389555193010">Google Play Developer Page</a>
 
 <a href="https://aashrut.github.io">My Portfolio</a>
 
-<a href="https://aashrut.github.io/Certificate-Generator/">Certificate Generator</a>
-
-<a href="https://github.com/Aashrut/Lock">Lock</a>
-
 ## My Github Stats
 
-<div align="center">
-
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=Aashrut&hide=stars&show_icons=true&theme=tokyonight)  
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Aashrut&layout=compact&langs_count=10&theme=tokyonight)
-  
-</div>
+<span>
+  <img height=200 align="center" src="https://github-readme-stats.aashrut.vercel.app/api?username=aashrut&theme=ambient_gradient&show_icons=true" />
+  <img height=200 align="center" src="https://github-readme-stats.aashrut.vercel.app/api/top-langs/?username=aashrut&theme=ambient_gradient&langs_count=8&layout=compact" />
+</span>
 
 <!--
 **Aashrut/Aashrut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
