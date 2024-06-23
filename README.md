@@ -62,7 +62,7 @@
 </div>
 
 ## My Projects
-<a href="https://agentcrop.azurewebsites.net">Agent Crop</a>
+<a href="https://agentcrop.com">Agent Crop</a>
 
 <a href="https://play.google.com/store/apps/dev?id=7297231389555193010">Google Play Developer Page</a>
 
